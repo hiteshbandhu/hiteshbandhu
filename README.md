@@ -1,4 +1,4 @@
-TL;DR : **Python Backend Engineer with an Expertise in Making Performant RAG/LLM Enabled Apps, complete with Evaluations**
+TL;DR : **Python Backend Engineer with an Expertise in Making Performant RAG/LLM Enabled Apps, Complete with Evaluations**
 
 ### hey boiiis 👋
 
