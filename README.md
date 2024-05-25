@@ -8,6 +8,8 @@ Tech stack independent, but still, this **Django + Next.js** combo hits hard. I 
 
 ### Contact me anytime:
 
-*Email*: [bandhuhitesh52003@gmail.com](mailto:bandhuhitesh52003@gmail.com)           *X*: [https://x.com/hitmadeit](https://x.com/hitmadeit)
+- *Email*: [bandhuhitesh52003@gmail.com](mailto:bandhuhitesh52003@gmail.com)           
+- *X*: [https://x.com/hitmadeit](https://x.com/hitmadeit)
+- *Youtube* : [https://www.youtube.com/@hiteshbandhucodes](https://www.youtube.com/@hiteshbandhucodes)
 
 Have a nice day! 😎
