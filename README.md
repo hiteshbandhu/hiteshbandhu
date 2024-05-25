@@ -2,12 +2,12 @@ TL;DR : **Python Backend Engineer with an Expertise in Making Performant RAG/LLM
 
 ### hey boiiis 👋
 
-Just a curious homosapien who feeds on data and manipulates language models. Music producer when in pain. New album soon btw 🎵
+Just a curious homosapien who feeds on data and manipulates language models. Music producer when in pain. New album soon btw    
 
 Tech stack independent, but still, this **Django + Next.js** combo hits hard. I read ai papers, manipulate LLMs, make RAG pipelines, and drink coffee ☕
 
 ### Contact me anytime:
 
-*Email*: [bandhuhitesh52003@gmail.com](mailto:bandhuhitesh52003@gmail.com) *X*: [https://x.com/hitmadeit](https://x.com/hitmadeit)
+*Email*: [bandhuhitesh52003@gmail.com](mailto:bandhuhitesh52003@gmail.com)           *X*: [https://x.com/hitmadeit](https://x.com/hitmadeit)
 
 Have a nice day! 😎
