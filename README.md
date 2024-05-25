@@ -1,6 +1,6 @@
 TL;DR : **Python Backend Engineer with an Expertise in Making Performant RAG/LLM Enabled Apps, Complete with Evaluations**
 
-### hey homosapiens 👋
+### namaste everyone 👋
 
 Just a curious homosapien who feeds on data and manipulates language models. Music producer when in pain. New album soon btw    
 
