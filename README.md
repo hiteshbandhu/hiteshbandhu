@@ -26,7 +26,10 @@
 
 ###
 
-<p align="left">i'm a curious homosapien trying to ship code that helps. python/ai dev</p>
+<p align="center">i'm a curious homosapien trying to ship code that helps. python/ai dev</p>
+
+<p align="center">reach me out anytime at (bandhuhitesh52003@gmail.com)[mailto:bandhuhitesh52003@gmail.com]</p>
+
 
 ###
 
